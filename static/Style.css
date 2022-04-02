@@ -1,0 +1,8 @@
+.about-img {
+  border-radius: 50%;
+  border: 3px solid gray;
+}
+.about-img:hover {
+  cursor: pointer;
+  opacity: 0.9;
+}
